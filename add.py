@@ -1,4 +1,8 @@
-a=12
-b=6
-print(a+b) #8
+a=int(input() 
+if(a>=18):
+      print("able to vote")
+      
+else:
+      print("not able to vote")
+      
 
