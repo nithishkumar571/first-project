@@ -1,5 +1,5 @@
 b=int(input()) 
-if(b>=56):
+if(b>=18):
       print("able to vote")
       
 else:
