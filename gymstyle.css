@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: "Brush Script MT", cursive;
+    background-color:darkorange;
+}
+.give{
+    color: white;
+    text-align: center;
+}
+.nithish{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.nithish div{
+    width: 200px;
+    text-align: center;
+    margin: 20px;
+    flex-basis: 20%;
+    flex-grow: 1;
+    
+}
+
